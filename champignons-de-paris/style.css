@@ -1,0 +1,35 @@
+body {
+  margin: 2rem;
+  font-family: Open Sans;
+  text-align: center;
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+main {
+  background-color: #fcf1e9;
+  max-width: 60%;
+  height: 100%;
+  margin: auto;
+  padding: 1%;
+}
+
+div {
+  padding: 10px;
+}
+
+.price {
+  font-size: 14px;
+  padding: 3px;
+}
+
+h1 {
+  font-family: Parisienne;
+}
+
+h3 {
+  background-color: #f0dfd2;
+  max-width: 95%;
+  margin: auto;
+  padding: 5px;
+}
